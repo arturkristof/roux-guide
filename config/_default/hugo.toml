@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'pl-pl'
+title = 'Artur Kristof Speedsolving'
+theme = 'hugo-theme-relearn'
+
+[params]
+    [params.contact]
+    email = 'artur.kristof@gmail.com'
