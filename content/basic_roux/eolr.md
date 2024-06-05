@@ -1,7 +1,6 @@
 +++
 title = 'EOLR'
 date = 2024-06-03T22:49:23+02:00
-draft = true
 +++
 
 Legenda:
