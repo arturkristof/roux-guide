@@ -31,12 +31,11 @@ Znajdziesz tutaj x algorytmów CMLL. Zbierałem algorytmy dla każdego przypadku
 
 ### X Checkerboard
 
-| Przypadek | Algorytm | Przypadek | Algorytm |
-|:---------:|:--------:|:---------:|:--------:|
-|           |          |           |          |
-|           |          |           |          |
-|           |          |           |          |
-|           |          |           |          |
+|                 Przypadek                 |               Algorytm                |                 Przypadek                 |             Algorytm             |
+|:-----------------------------------------:|:-------------------------------------:|:-----------------------------------------:|:--------------------------------:|
+|        ![0](/cmll/full/pi/3/0.png)        |       R' F2 D R2 U' R2 D' F2 R        | ![2 - UF UR](/cmll/full/pi/3/2-UF-UR.png) | (U') R' F R U F U' R U R' U' F'  |
+| ![2 - UL UB](/cmll/full/pi/3/2-UL-UB.png) | (U') F R U' R' U' R U R' U R U' R' F' | ![2 - UF UB](/cmll/full/pi/3/2-UF-UB.png) | R' U2 R U2 F R U R' U' F' R' U R |
+|     ![4 - U](/cmll/full/pi/3/4-U.png)     |     F R' F' U2 r U R' U R2 U2 r'      |                                           |                                  |
 
 ### Forward Slash
 
