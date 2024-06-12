@@ -11,17 +11,15 @@ Znajdziesz tutaj x algorytmów CMLL. Zbierałem algorytmy dla każdego przypadku
 - 1 algorytm zmieniający orientację dwóch krawędzi na przeciwko siebie
 - 1 algorytm zmieniający orientację wszystkich krawędzi na U
 
-Algorytmy brałem z pamięci, [SpeedCubeDB](https://speedcubedb.com/), oraz
-ze [strony Kiana Mansour](https://sites.google.com/view/kianroux/cmll/).
-
 ## Pi
 
 ### Columns
 
-|                 Przypadek                 |               Algorytm               |                 Przypadek                 |             Algorytm              |
-|:-----------------------------------------:|:------------------------------------:|:-----------------------------------------:|:---------------------------------:|
-|        ![0](/cmll/full/pi/5/0.png)        |  (U2) r' F R F' r U' R' U' R U' R'   | ![2 - UL DF](/cmll/full/pi/5/2-UL-DF.png) | (U') r U' r2' D' r U r' D r2 U r' |
-| ![2 - UL UB](/cmll/full/pi/5/2-UL-UB.png) | (U2) R' U R U' R2' F R2 U R' U' F' R |     ![4 - U](/cmll/full/pi/5/4-U.png)     | (U') R U' R2 D' r U r' D R2 U R'  |
+|                 Przypadek                 |                 Algorytm                 |                 Przypadek                 |              Algorytm               |
+|:-----------------------------------------:|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------:|
+|        ![0](/cmll/full/pi/5/0.png)        |    (U2) r' F R F' r U' R' U' R U' R'     | ![2 - UL DF](/cmll/full/pi/5/2-UL-DF.png) |  (U') r U' r2' D' r U r' D r2 U r'  |
+| ![2 - UL UB](/cmll/full/pi/5/2-UL-UB.png) |   (U2) R' U R U' R2' F R2 U R' U' F' R   | ![2 - UF UR](/cmll/full/pi/5/2-UF-UR.png) | F R U R' U' R2 D R' U R D' R2 U' F' |
+| ![2 - UF UB](/cmll/full/pi/5/2-UF-UB.png) | (U') R U' R' F' U' F U2 R U R' U' R U R' |     ![4 - U](/cmll/full/pi/5/4-U.png)     |  (U') R U' R2 D' r U r' D R2 U R'   |
 
 ### Left Bar
 
